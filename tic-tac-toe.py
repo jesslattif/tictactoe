@@ -94,7 +94,7 @@ def first_turn():
 	set_piece(my_board, first_space, player_1.value)
 
 def computer_turn(board):
-	print("Here's the board again.\n")
+	print("Ok, here's the board again.\n")
 	rows()
 	print("\n Now it's my turn.")
 
