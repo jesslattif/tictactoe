@@ -96,7 +96,7 @@ def first_turn():
 def computer_turn(board):
 	print("Here's the board again.\n")
 	rows()
-	print("\n Now I'm going to take a turn.")
+	print("\n Now it's my turn.")
 
 start_game()
 
